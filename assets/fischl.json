@@ -1,0 +1,70 @@
+{
+    "name": "Fischl",
+    "stats": {
+        "atk": 130,
+        "hp": 4872,
+        "def": 315,
+        "elemental_mastery": 130
+    },
+    "weapon": {
+        "name": "Favonius Warbow",
+        "stars": 4,
+        "level": 50,
+        "stats": {
+            "atk": 238
+        }
+    },
+    "artifacts": [
+        {
+            "name": "Instructor's Feather Accessory",
+            "stars": 4,
+            "level": 16,
+            "stats": {
+                "atk": 232,
+                "atk_percentage": 3.3
+            }
+        },
+        {
+            "name": "Instructor's Cap",
+            "stars": 4,
+            "level": 11,
+            "stats": {
+                "atk_percentage": 25.9
+            }
+        },
+        {
+            "name": "Exile's Flower",
+            "stars": 4,
+            "level": 8,
+            "stats": {
+                "hp": 2108,
+                "crit_rate": 2.5,
+                "crit_dmg": 5.6,
+                "elemental_mastery": 19,
+                "energy_recharge": 3.6
+            }
+        },
+        {
+            "name": "Exile's Goblet",
+            "stars": 4,
+            "level": 6,
+            "stats": {
+                "atk": 14,
+                "atk_percentage": 20.6,
+                "energy_recharge": 4.7,
+                "crit_dmg": 4.4,
+                "def": 4.7
+            }
+        },
+        {
+            "name": "Berzerker's Timepiece",
+            "stars": 4,
+            "level": 4,
+            "stats": {
+                "atk_percentage": 4.2,
+                "crit_dmg": 2.8,
+                "def": 13
+            }
+        }
+    ]
+}

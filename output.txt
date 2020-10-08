@@ -1,0 +1,5 @@
+Base Attack: 368
+Artifacts Base Attack: 246
+Artifacts Attack Percentage: 54.0 %
+Bonus Attack from Percentage Stats: 198.72000000000003
+Final Damage Score: 812.72
